@@ -31,3 +31,10 @@ Geography — a customer’s location can affect their decision to leave the ban
 
 # Results and Evaluation
 Please check the results in my notebook 
+
+|model| Accuracy|	Precision	|Recall|
+| - | - | - |  - |
+|0|	logistic Reg|	0.8080|	0.585799|	0.194499|
+|1|	KNN|	0.8308|	0.688596|	0.308448|
+|2|	Random Forest|	0.8600|	0.775087|	0.440079|
+|3|	SVC|	0.8572|	0.777372|	0.418468|
