@@ -30,7 +30,8 @@ Geography — a customer’s location can affect their decision to leave the ban
 
 
 # Results and Evaluation
-Please check the results in my notebook 
+Please check the results in my notebook for more details  or check my google colab: https://colab.research.google.com/drive/1hd9JgnlJwTU1z0eJ70u5bwwVZgYGgNrH?usp=sharing
+Here are some partial results from my work:
 
 |model| Accuracy|	Precision	|Recall|
 | - | - | - |  - |
